@@ -14,4 +14,4 @@ You can play in coop mode, either localy, or online!
 
 {{< youtube OECm-DWTi9o >}}
 
-Follow Evil Robots on twitter: &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/robots_evil"><img src="img/twitter.png" width=32></a>
+Follow Evil Robots on twitter: &nbsp;&nbsp; <a href="https://twitter.com/robots_evil"><img src="img/twitter.png" width=32></a>
